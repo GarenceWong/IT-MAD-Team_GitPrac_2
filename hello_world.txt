@@ -1,2 +1,2 @@
-This is hello from Garence. I am adding a new line of
+This is hello from student1. I am adding a new line of
 code here.
